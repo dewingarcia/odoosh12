@@ -1,0 +1,4 @@
+[submodule "oca-addons/server-tools"]
+	path = oca-addons/server-tools
+	url = git@github.com:bacgroup/server-tools.git
+	branch = sht12.0
