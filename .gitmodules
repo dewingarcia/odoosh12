@@ -2,3 +2,8 @@
 	path = vitt-addons/odoo-stock
 	url = git@bitbucket.org:bacgroup/odoo-stock.git
 	branch = sht12.0
+
+[submodule "oca-addons/server-tools"]
+	path = oca-addons/server-tools
+	url = git@github.com:bacgroup/server-tools.git
+	branch = sht12.0
