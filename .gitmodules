@@ -1,4 +1,4 @@
 [submodule "vitt-addons/odoo-stock"]
 	path = vitt-addons/odoo-stock
-	url = https://dewingarcia@bitbucket.org/bacgroup/odoo-stock.git
+	url = git@bitbucket.org:bacgroup/odoo-stock.git
 	branch = sht12.0
